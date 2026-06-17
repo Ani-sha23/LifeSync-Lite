@@ -56,7 +56,7 @@ LifeSync Lite provides a **single platform** to:
 * Java (Core Java, OOP)
 * Collections Framework (List, Stream API)
 * File Handling (Serialization)
-* Console-based UI
+* Console-based User Interface 
 
 ---
 
