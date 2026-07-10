@@ -4,7 +4,7 @@
 
 LifeSync Lite is a Java-based console application designed to help students and professionals manage their daily life efficiently. It integrates expense tracking, task management, and habit tracking into a single unified system.
 
-This project was developed as part of the **Programming in Java BYOP ** course.
+This project was developed as part of the **Programming in Java ** course.
 
 ---
 
