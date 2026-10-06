@@ -1,6 +1,6 @@
 # LifeSync Lite  
 
-##Smart Personal Management System
+Smart Personal Management System
 
 > **A Java-based personal management system that brings expenses, tasks, habits, and productivity insights together in one simple console application.**
 
